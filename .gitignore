@@ -52,3 +52,6 @@ CodeCoverage/
 *.VisualState.xml
 TestResult.xml
 nunit-*.xml
+PlaywrightTests/playwright/.auth
+PlaywrightTests/.github/
+PlaywrightTests/.vs/
